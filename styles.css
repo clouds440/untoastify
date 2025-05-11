@@ -1,0 +1,41 @@
+.toast-container {
+  position: fixed;
+  display: flex;
+  padding: 0.25rem 0.25rem;
+  z-index: 9999;
+  font-family: sans-serif;
+  font-weight: bold;
+  max-width: 20rem; /* ~max-w-xs */
+}
+
+/* You can still dynamically apply bgColor as a class */
+.toast-icon {
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  padding: 0.75rem;
+  display: flex;
+  align-items: center;
+}
+
+.toast-message {
+  padding: 0.75rem 1rem;
+  background-color: #d1d5db; /* bg-gray-300 */
+  color: black;
+  font-weight: 600;
+  font-size: small;
+  user-select: none;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  align-items: center;
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+}
+
+.toast-close-btn {
+  margin-left: 0.75rem;
+  padding: 0.25rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}

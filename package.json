@@ -1,0 +1,48 @@
+{
+  "name": "untoastify",
+  "version": "1.0.0",
+  "description": "A lighter but better alternative to react-toastify. Customizable, efficient, easy-to-use.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clouds440/untoastify.git"
+  },
+  "optionalDependencies": {
+    "framer-motion": "^10.18.0"
+  },
+  "keywords": [
+    "toast",
+    "react",
+    "notifications",
+    "toast-notifications",
+    "toastify",
+    "react-toastify",
+    "toast",
+    "alternative",
+    "lightweight",
+    "toast",
+    "toast",
+    "library",
+    "custom",
+    "toast",
+    "UI",
+    "UnToastify",
+    "minimal",
+    "notifications",
+    "react",
+    "component",
+    "better",
+    "than",
+    "toastify"
+  ],
+  "author": "Ahmed Zahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clouds440/untoastify/issues"
+  },
+  "homepage": "https://github.com/clouds440/untoastify#readme"
+}
