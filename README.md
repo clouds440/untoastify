@@ -61,29 +61,3 @@ cd untoastify
 ## 📦 License
 
 GNU Affero General Public License v3.0 - see the LICENSE file for details.
-
-## keywords
-
-"toast",
-"react",
-"notifications",
-"toast-notifications",
-"toastify",
-"react-toastify",
-"toast",
-"alternative",
-"lightweight",
-"toast",
-"toast",
-"library",
-"custom",
-"toast",
-"UI",
-"UnToastify",
-"minimal",
-"notifications",
-"react",
-"component",
-"better",
-"than",
-"toastify"

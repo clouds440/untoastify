@@ -1,6 +1,6 @@
 {
   "name": "untoastify",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "A lighter but better alternative to react-toastify. Customizable, efficient, easy-to-use.",
   "main": "index.js",
   "types": "index.d.ts",
