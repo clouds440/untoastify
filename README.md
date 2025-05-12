@@ -34,7 +34,8 @@ App // your app main component
                 message: "Show information toast!", 
                 type: "info", 
                 position: "top-right", 
-                duration: 3000, }); }; 
+                duration: 3000, }); 
+    }; 
 
     return ( 
         < button > onClick={handleClick}> Toast Me < /button > 
@@ -60,4 +61,4 @@ cd untoastify
 
 ## 📦 License
 
-GNU Affero General Public License v3.0 - see the LICENSE file for details.
+MIT License - see the LICENSE file for details.
