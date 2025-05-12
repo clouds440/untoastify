@@ -16,10 +16,10 @@ npm install untoastify
 
 <pre>import { ToastProvider } from "untoastify";
 
-// then wrap your app component inside the toast provider
+// Then wrap your App component inside the toast provider
 
 < ToastProvider >
-App // your app main component
+< App /> // your App component
 < /ToastProvider ></pre>
 
 ## Basic usage
