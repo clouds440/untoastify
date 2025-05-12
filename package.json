@@ -40,7 +40,7 @@
     "toastify"
   ],
   "author": "Ahmed Zahid",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/clouds440/untoastify/issues"
   },
